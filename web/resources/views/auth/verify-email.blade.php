@@ -3,7 +3,7 @@
 {{-- https://bit.ly/mastering-task-form --}}
 <div class="mt-5 mx-auto" style="width: 380px">
     <div class="card">
-        <div class="card-body">
+        <div class="card-body hi">
             @if (session('status'))
             <div class="alert alert-success">
                 A fresh verification Link has been sent to your email
